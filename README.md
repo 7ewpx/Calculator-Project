@@ -1,5 +1,7 @@
 # Python Calculator
+## Screenshot
 
+![Calculator Screenshot](calculator.png)
 مشروع آلة حاسبة بسيطة بواجهة رسومية باستخدام Python و Tkinter.
 
 ## المميزات
